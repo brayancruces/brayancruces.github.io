@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# AUTOR
+
+    Brayan Cruces -- Web Developer -- @brayancrayon
+
+# THANKS - RESOURCES
+
+    Flat Social Media Icons (Enfuzed)
+    Firefox OS Mockups (Paco Soria)
+    Flat icons (Pierre Borodin)
+    
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Bootstrap 3
